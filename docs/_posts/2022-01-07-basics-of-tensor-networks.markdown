@@ -4,7 +4,7 @@ title:  "Basics of Tensor Networks"
 date:   2022-01-07 15:47:04 -0500
 categories: jekyll update
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% include ../mathjax.html %}
 
 I'm currently reading [an introduction to tensor networks by Roman Orus][tn-review]. Previously I was introduced to matrix product states (MPS) in a quantum information class, but I have never learned about tensor networks in depth before. First, I'll give a general overview of the benefits and challenges of tensor networks, then I'll dive into more involved details.
 
