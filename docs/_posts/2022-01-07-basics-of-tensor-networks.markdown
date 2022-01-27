@@ -18,5 +18,5 @@ Finding ground states via imaginary time evolution on a MPS or PEPS state is oft
 Finding variational wavefunctions also works using a tensor-by-tensor energy minimization procedure. Here, we must minimize the expectation of the Hamiltonian over the family of states parametrized by a tensor network with our chosen bond dimension. Because every matrix element of every tensor is a variational parameter, it is not practical to optimize over every matrix element at once. Instead, as in TEBD, one minimizes the energy over one tensor at a time, and sweeps through all tensors several times. In one dimension with open boundary conditions, this procedure is known as density matrix renormalization group (DMRG).
 
 [tn-review]: https://arxiv.org/pdf/1306.2164.pdf
-![contraction_order_matters](/maddiecain.github.io/docs/assets/contraction_order_matters.png)
+![contraction_order_matters](/maddiecain.github.io/docs/assets/images/contraction_order_matters.png)
 
