@@ -27,6 +27,7 @@ url: "https://maddiecain.github.io/" # the base hostname & protocol for your sit
 github_username:  maddiecain
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
